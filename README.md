@@ -12,23 +12,19 @@ Based on Darkan & Darcula, it allows you to keep a certain approach to the theme
 
 ### Some pictures
 
-<img alt="Javascript" src="https://img.shields.io/badge/.JS-Javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img alt="Typescript" src="https://img.shields.io/badge/.TS-Typescript-blue.svg?style=for-the-badge&logo=Typescript&logoColor=blue"/>
-<img alt="Javascript" src="https://img.shields.io/badge/Node-Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=green"/>
+<img alt="Javascript" src="https://img.shields.io/badge/.JS-Javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=yellow"/> <img alt="Typescript" src="https://img.shields.io/badge/.TS-Typescript-blue.svg?style=for-the-badge&logo=Typescript&logoColor=blue"/> <img alt="JNode.js" src="https://img.shields.io/badge/Node-Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=green"/>
 
 <img alt="Javascript" src="https://image.noelshack.com/fichiers/2022/10/7/1647195054-capture.png"/>
 
 ----
 
-<img alt="HTML" src="https://img.shields.io/badge/.HTML-Hypertext markup language-orange.svg?style=for-the-badge&logo=HTML5&logoColor=orange"/>
-<img alt="React JSX" src="https://img.shields.io/badge/.JS / .JSX-React extended javascript-58ACFA.svg?style=for-the-badge&logo=react&logoColor=58ACFA"/>
+<img alt="HTML" src="https://img.shields.io/badge/.HTML-Hypertext markup language-orange.svg?style=for-the-badge&logo=HTML5&logoColor=orange"/> <img alt="React JSX" src="https://img.shields.io/badge/.JS / .JSX-React extended javascript-58ACFA.svg?style=for-the-badge&logo=react&logoColor=58ACFA"/>
 
 <img alt="HTML" src="https://image.noelshack.com/fichiers/2022/10/7/1647195985-capture2.png"/>
 
 ----
 
-<img alt="HTML" src="https://img.shields.io/badge/.CSS-Cascading StyleSheets-2E9AFE.svg?style=for-the-badge&logo=CSS3&logoColor=2E9AFE"/>
-<img alt="React JSX" src="https://img.shields.io/badge/.SASS-Syntactically awesome stylesheets-F781D8.svg?style=for-the-badge&logo=SASS&logoColor=F781D8"/>
+<img alt="CSS" src="https://img.shields.io/badge/.CSS-Cascading StyleSheets-2E9AFE.svg?style=for-the-badge&logo=CSS3&logoColor=2E9AFE"/> <img alt="SASS" src="https://img.shields.io/badge/.SASS-Syntactically awesome stylesheets-F781D8.svg?style=for-the-badge&logo=SASS&logoColor=F781D8"/>
 
 
 <img alt="CSS" src="https://image.noelshack.com/fichiers/2022/10/7/1647197301-capture3.png"/>
